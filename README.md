@@ -25,4 +25,4 @@ git clone https://github.com/cakdun/shell-code-cakdun-cyber.git
 
 <p>Silahkan jalankan perintah <code>cli</code> yang anda inginkan</p>
 
-<img src="img/4.png">
+<img src="img/5.png">
