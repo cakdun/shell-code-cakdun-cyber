@@ -23,4 +23,6 @@ git clone https://github.com/cakdun/shell-code-cakdun-cyber.git
 
 ## Masuk ke url yang mengarah ke halaman file shellcode yang kita upload
 
+<p>Silahkan jalankan perintah <code>cli</code> yang anda inginkan</p>
+
 <img src="img/4.png">
